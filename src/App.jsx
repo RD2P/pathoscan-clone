@@ -12,7 +12,7 @@ function App() {
       <div className="vspacer-100"></div>
       <div className="row">
         <div className="col-12 col-md-6">
-          <img src='./public/assets/logo-whitebg.png' width={200} />
+          <img src='/assets/logo-whitebg.png' alt='logo' width={200} />
         </div>
       </div>
 
@@ -34,7 +34,7 @@ function App() {
         {/* product picture */}
         <div className='col-md-5 row justify-content-center align-items-center'>
           <div className="col-7 col-sm-5">
-            <img className='img-fluid' src='/public/assets/pathoscan_product.f56f4a74a5c856df7115.png' ></img>
+            <img className='img-fluid' src='/assets/pathoscan_product.f56f4a74a5c856df7115.png' alt='product device' ></img>
           </div>
         </div>
       </div>
