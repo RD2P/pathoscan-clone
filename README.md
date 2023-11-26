@@ -1,5 +1,5 @@
 # PathoScan Clone Bootstrap Demo
 
-Quick project cloning the hero section of [pathoscan.com](https://www.pathoscan.com/) for quick practice with Bootstrap.
+A small project cloning the hero section of the PathoScan [website](https://www.pathoscan.com/) for Bootstrap practice.
 <br/>Made with React and Vite.
-<br/>Deployed with Netlify: https://peaceful-babka-405f29.netlify.app
+<br/>Demo is deployed with Netlify: https://peaceful-babka-405f29.netlify.app
